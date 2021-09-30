@@ -13,7 +13,7 @@
   <img src"http://ForTheBadge.com/images/badges/built-with-love.svg">
   <a href="https://discord.gg/CMYGSub2nV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-  <img height="50em" width="50em" src="https://media.discordapp.net/attachments/892591939956903970/893200272300601425/Webp.net-gifmaker.gif?width=376&height=376">
+  <img height="70em" width="70em" src="https://media.discordapp.net/attachments/892591939956903970/893200272300601425/Webp.net-gifmaker.gif?width=376&height=376">
   </div>
   <div>
     <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
